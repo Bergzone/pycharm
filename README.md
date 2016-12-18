@@ -1,2 +1,2 @@
 # pycharm
-Group Snippets for/from PyCharm Projects Group Members
+Code Snippets for/from PyCharm Projects Group Members
