@@ -1,5 +1,6 @@
 a="Hello"
 b="World"
 spacer=" "
-c=a+spacer+b
+newline="\n"
+c=a+spacer+b+newline
 print(c)
